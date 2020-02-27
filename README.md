@@ -7,3 +7,5 @@ Some content of this repo is private. Below are the list of materials which are 
 * Computer Vision (Gatech)
 * Deep learning CNN (Coursera)
 * Text analysis
+
+Access to above repo can be provided on request.
